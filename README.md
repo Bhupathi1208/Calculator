@@ -1,2 +1,1 @@
-# calculator
-It is easy to calculate numbers by using this
+A simple calculator application built using HTML,CSS and Javascript. Features in calculator: -Performing operations Technologies used: -HTML -CSS -Javascript How to run: open 'index.html' in a browser.
